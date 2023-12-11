@@ -1,5 +1,5 @@
 `use strict`;
-const sortByDescendingFriendCount = (users) =>
+const sortByDescendingFriendCount = users =>
     
     users.toSorted((firstUser, secondUser) =>
         
